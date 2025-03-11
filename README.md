@@ -1,9 +1,5 @@
-# MERN-E-Commerce-Frontend
 
-MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
-
-## Features
-
+Ecommerce Website 
 - User authentication and authorization(JWT)
 - Admin dashboard for managing products, orders, users and to show statistics
 - Payemnt Gateway
