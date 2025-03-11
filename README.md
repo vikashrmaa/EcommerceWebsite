@@ -10,7 +10,7 @@ Ecommerce Website
 - Cart management
 - Order history
 n
-## Tech Stack
+
 - MongoDB
 - ReactJS
 - NodeJS
